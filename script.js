@@ -37,7 +37,7 @@ const mammaCitat = [
 
 function dagensIndex(lista) {
   const idag = new Date();
-  const start = new Date(2025, 0, 1); // Starta från 1 januari 2025
+  const start = new Date(2025, 2, 26); // 26 March 2025 (Month 2 = March)
   const dagarSedanStart = Math.floor((idag - start) / (1000 * 60 * 60 * 24));
   return dagarSedanStart % lista.length;
 }
