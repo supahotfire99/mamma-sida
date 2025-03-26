@@ -1,6 +1,21 @@
 const bilder = [
-  "bilder/1.jpg"
-  // Du kan lägga till fler: "bilder/andra.jpg", ...
+  "bilder/1.jpg",
+  "bilder/2.jpg",
+  "bilder/3.jpg",
+  "bilder/4.jpg",
+  "bilder/5.jpg",
+  "bilder/6.jpg",
+  "bilder/7.jpg",
+  "bilder/8.jpg",
+  "bilder/9.jpg",
+  "bilder/10.jpg",
+  "bilder/11.jpg",
+  "bilder/12.jpg",
+  "bilder/13.jpg",
+  "bilder/14.jpg",
+  "bilder/15.jpg",
+  "bilder/16.jpg",
+  "bilder/17.jpg"
 ];
 
 const meddelanden = [
